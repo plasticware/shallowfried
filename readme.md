@@ -27,6 +27,8 @@ Some game logic is also handled by minor components:\
 Donut: Each donut moves itself down the conveyor belt and tracks information about what type of donut it is and what modifiers have been applied to it.\
 Upgrade levers: Each upgrade control lever registers itself to its parent factory, which then sets its label correspondingly. Levers fire events when they are pulled, to check if the player has unlocked the corresponding upgrade and whether they can afford it.
 
+One more note: I intentionally chose not to show other people's donuts on their conveyor belts. Less fun this way, but also probably less of a strain on your phone.
+
 ---
 
 Extensibility:
@@ -37,6 +39,8 @@ More conveyor belt machines: I currently have a donut glazer machine, and I imag
 ---
 
 Future work:
+
+Issue: when players join the game, I teleport them to an open factory and have them claim it, but the camera doesn't follow them. I've tried setting `Camera.main.transform.position` in a client script, but nothing happens.
 
 One feature I'd like to add is gating some upgrades behind certain prestige levels (e.g. a type of donut that you have to prestige twice in order to unlock).
 
