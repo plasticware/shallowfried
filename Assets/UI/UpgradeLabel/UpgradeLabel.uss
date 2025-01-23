@@ -1,0 +1,46 @@
+.upgrade-label {
+}
+
+.my-container {
+  width: 100%;
+  height: 100%;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.title {
+  color: #1aff6a;
+  font-size: 50px;
+  -unity-font-style: bold;
+
+  -unity-text-outline-width: 2px;
+  -unity-text-outline-color: #00a83a;
+}
+
+.description {
+  color: #1aff6a;
+  font-size: 40px;
+  -unity-font-style: bold;
+
+  -unity-text-outline-width: 2px;
+  -unity-text-outline-color: #00a83a;
+}
+
+.level {
+  color: #1aff6a;
+  font-size: 50px;
+  -unity-font-style: bold;
+
+  -unity-text-outline-width: 2px;
+  -unity-text-outline-color: #00a83a;
+}
+
+.cost {
+  color: #1aff6a;
+  font-size: 50px;
+  -unity-font-style: bold;
+
+  -unity-text-outline-width: 2px;
+  -unity-text-outline-color: #00a83a;
+}

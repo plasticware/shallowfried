@@ -1,0 +1,74 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 53
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 258248712, guid: a215bd465061e3c4abe0b86c7c8c3d14, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _assetMappings:
+  - Guid: 86ad82f45da8e2341824acdfa0861d77
+    StoreId: 671840d4a02115b1f31c3292
+    Name: Food FREE by ithappy
+    ThumbnailUrl: https://d4v5j9dz6t9fz.cloudfront.net/web_uploads/world_builder_assets/647622d2106a74bac609d8ea/671840d4a02115b1f31c3292/192b6d05aa8_0.jpg
+    AdditionalImageUrls:
+    - https://d4v5j9dz6t9fz.cloudfront.net/web_uploads/world_builder_assets/647622d2106a74bac609d8ea/671840d4a02115b1f31c3292/192b6cfca20_0.jpg
+    AdditionalAssetGUIDs:
+    - 148f39c355dbcd342a77c5edbfb43792
+    - c7232173ec62a4648bc000bf0b5baf1a
+    - 60568abbed781d643a95fe465ddf7d89
+    - 90eef2986e5621946bc6c49fa7c1bb59
+    - 556e828522c2d664dacf6dde91f68efb
+    - e78c24f1f6682d048beb3ea4986f41bb
+    - 557f13dbb2a6872439b8c75bf3271c5d
+    - b542f155b868c0e40834cb1333522ac2
+    - 51d6319d2b9742640a6b2bb01da1dc59
+    - e3a10d9641710d041a51eb9a528a6e9a
+    - c2004775e0ce89f48af3e88e6f9555a4
+    - 24598e7b217c94e4dbe0f0024ed2125f
+    - 19778a1cec25085409918a09efe96dee
+    - 58ecccecc9dac3849a79803e56ccc86c
+    - 22f70e163a75b0643b7e1dfc8599f1a5
+    - ff395a592fd37a64faade66bb8598f75
+    - 4a4c3090dafff744191822abad106463
+    - 894ad6ec8aaa7f14d8d6cea5f753932b
+    - d1f70b40c48b823429bc0d9adc4c0a09
+    - 33bd3696e4ffca649b47370f28ae1193
+    - 31ec181664c141943b9c7bee2d073cbf
+    - 2a40e4178ccfbc34bbd02a2aa5924c4d
+    - 4be770614820e82428bff74e713e0134
+    - 6012fccf4ebae9e4cb47349aa82f193d
+    - de87f7603a68e544caae20f7f33e77a3
+    - ec6b75d454e7f8f4781f3ce98fea3e7f
+    - 75def7bcd833c6d48b914c8b78f48891
+    - b9e0dc1ab0567274ca3d07fa03c545f0
+    - 2428bc9b446678141b15545e45551790
+    - bfa69215c106c624f9bbd20882758a79
+    - 874cc5bc24933b042abbece65c83575d
+    - 2f8c857b192eb45438fc348d00f0e1dc
+    - 577045aaae10359478868e58bdc87b03
+    - 405951cf51ef9e5449650a260d9c7d7d
+    - 00b8347628af935489c0e2363cf81d0a
+    - a338b4947949ef741aed5ee7b2fb2cb5
+    - 0de433cdd2e4443429aa1ea006d5ed6f
+    - 6337d2f9a4f13df48bbf04e2c5ae8f40
+    - cc9555660233b1f4c8e9da5c66a9dab1
+    - edecf380fec20c842b4edd08d5bec47a
+    - fd20fe41de0b6b145a3a455a612c3662
+    - 63e79004a1b1cbb4ca1a221e8c7d3694
+    - 552087194613fe149b2e55f682d0029d
+    - 8ee5b8ec18f4a1c41b3c9c20412d6670
+    - 1a8ac2d74773764459a79d717ae3ab9f
+    - a290a309ed93f924b8c5e5727f903d00
+    - 0fe214b4718d3fc41aa37c205ae164ec
+    - a85c04d0f7dd0a14e988a543bd46a93d
+    - 3f99848e2dea54c44bd892c8b71bf04e
+    - fcc9a477b25cb8a49a54aeb8fd4e21e5
+    - dcc2448ad07367a4da606a55f93d7b90
+    IsBundle: 1
