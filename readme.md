@@ -8,7 +8,7 @@ When donuts reach the end of the conveyor belt, they are sold.\
 After buying some automatic donut makers, you will see a ui element over the oven showing when the next batch of donuts is ready.\
 Your factory will place as many donuts as it can fit onto the conveyor belt. If your oven is making donuts faster than your conveyor belt can process them, buy belt speed upgrades!\
 (I was originally also going to force players to buy upgrades for how quickly your factory can automatically sell your donuts, but ultimately decided against it.)\
-You can compare some basic stats to your fellow players by looking at the wall behind their factories.\
+You can compare some basic stats to your fellow players by looking at the wall behind their factories.
 
 Yes, there's a big reset lever in the middle of your factory. Don't pull it. (used for testing purposes)
 
@@ -21,11 +21,11 @@ Disclaimer: I was trying to build out the game as quickly as possible, and accru
 Putting that aside, the game can be split into a few major components:\
 Player manager: This module holds player stats and events for players joining/leaving.\
 Core: This module ticks the main loop for baking donuts and controls factory ownership. It also contains functions for determining upgrade price and effect, as well as other info.\
-Factory: Each factory runs its own factory script. Factories spawn and destroy donut objects and contain some information about the player's owned upgrades.\
+Factory: Each factory runs its own factory script. Factories spawn and destroy donut objects and contain some information about the player's owned upgrades.
 
 Some game logic is also handled by minor components:\
 Donut: Each donut moves itself down the conveyor belt and tracks information about what type of donut it is and what modifiers have been applied to it.\
-Upgrade levers: Each upgrade control lever registers itself to its parent factory, which then sets its label correspondingly. Levers fire events when they are pulled, to check if the player has unlocked the corresponding upgrade and whether they can afford it.\
+Upgrade levers: Each upgrade control lever registers itself to its parent factory, which then sets its label correspondingly. Levers fire events when they are pulled, to check if the player has unlocked the corresponding upgrade and whether they can afford it.
 
 ---
 
